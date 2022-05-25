@@ -5,6 +5,7 @@ $(document).ready(function() {
 });
 
 $('#back2').click(function(){
+    alert("Your data was saved"); 
     window.location.href='../index.html'; 
 });
 
